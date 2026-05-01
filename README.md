@@ -55,7 +55,11 @@ A secure, hidden route within the URL allows authorized personnel to manage the 
 
 <img width="1919" height="865" alt="image" src="https://github.com/user-attachments/assets/4ad2a929-94b3-4f94-9aad-c2078b4fd75f" />
 
+Here is the Login page! ^^
+
 <img width="1919" height="867" alt="image" src="https://github.com/user-attachments/assets/3ab2632f-6893-44b8-96d1-f70e61fa65d1" />
+
+Here is the Menu while in edit mode! ^^
 
 
 ## Engineering Challenges That we Solved
